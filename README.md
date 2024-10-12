@@ -17,6 +17,7 @@ The filtered paf file is parsed and all alignments are classified as an internal
 
 
 # Inspiration and further explanation
+miniasm paper:
 https://doi.org/10.1093/bioinformatics/btw152
-
+assembly string graph paper:
 https://doi.org/10.1093/bioinformatics/bti1114
